@@ -4,4 +4,14 @@ body {
 h1 {
     color: navy;
     margin-left: 20px;
+	float:left
+}
+h4 {
+    color: navy;
+    margin-left: 20px;
+	float:left
+}
+a.circle:hover
+{
+        border-radius:50%;
 }
