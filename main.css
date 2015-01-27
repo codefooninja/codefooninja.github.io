@@ -11,7 +11,7 @@ h3 {
     margin-left: 20px;
 
 }
-circle:hover
+.circle:hover
 {
         border-radius:50%;
 }
